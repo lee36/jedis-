@@ -1,0 +1,23 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.lee.properties.JedisPropertis",
+      "name": "jedis",
+      "type": "com.lee.properties.JedisPropertis"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.lee.properties.JedisPropertis",
+      "defaultValue": 0,
+      "name": "jedis.command-time-out",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.lee.properties.JedisPropertis",
+      "name": "jedis.uri",
+      "type": "java.lang.String"
+    }
+  ]
+}
